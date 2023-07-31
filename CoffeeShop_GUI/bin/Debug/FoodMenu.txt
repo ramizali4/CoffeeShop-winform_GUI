@@ -1,0 +1,12 @@
+Caffè Caramel
+499
+Caffè Hazelnut
+479
+Frosted Donut
+240
+Glazed Donut
+250
+Tandoori Tea
+120
+Cappucino
+150

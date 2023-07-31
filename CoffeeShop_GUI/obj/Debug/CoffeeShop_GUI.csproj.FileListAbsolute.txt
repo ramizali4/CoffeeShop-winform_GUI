@@ -1,0 +1,68 @@
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\CoffeeShop_GUI.exe.config
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\CoffeeShop_GUI.exe
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\CoffeeShop_GUI.pdb
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.SuggestedBindingRedirects.cache
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Properties.Resources.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.GenerateResource.cache
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.CoreCompileInputs.cache
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.exe
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.pdb
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Main_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Admin_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Customer_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.MenuEdit_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.SignUp_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Admin_frms.EditUsers_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Admin_frms.SpecificUserEdit_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.HomeView_1.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.EatControl.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.Home_view2.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.Home_View3.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Form1.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.CopyComplete
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.OrderPlace_frm.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.AssemblyReference.cache
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Main_frms.TermsConditions.resources
+C:\RAMIZ\UET\2nd Semester\Lab Work\Coffee Shop Project\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Admin_frms.AddFood_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\CoffeeShop_GUI.exe.config
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\CoffeeShop_GUI.exe
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.AssemblyReference.cache
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.SuggestedBindingRedirects.cache
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Form1.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Admin_frms.AddFood_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Admin_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Admin_frms.EditUsers_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Admin_frms.SpecificUserEdit_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Customer_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.EatControl.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.HomeView_1.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.Home_view2.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.Home_View3.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Customer_frms.OrderPlace_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Forms.Main_frms.TermsConditions.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Main_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.MenuEdit_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.Properties.Resources.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.SignUp_frm.resources
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.GenerateResource.cache
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.CoreCompileInputs.cache
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.csproj.CopyComplete
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.exe
+D:\uet\2nd\CoffeeShop_GUI\CoffeeShop_GUI\obj\Debug\CoffeeShop_GUI.pdb

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CoffeeShop_GUI.BL.Food">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAgACAAIAAgAAAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.BL.Users">
+    <Position X="0.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEQAAABAAAAAAAAACAQAAAgAAAAA=</HashCode>
+      <FileName>BL\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.BL.Customer">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAgAAAAAAAAAAAAAIAAAAYCABACAABYAAAAAAI=</HashCode>
+      <FileName>BL\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.DL.FoodDL">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAgg=</HashCode>
+      <FileName>DL\FoodDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.DL.UsersDL">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAQAAAAQACAAAACAAAAAAEAAgg=</HashCode>
+      <FileName>DL\UsersDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Form1" Collapsed="true">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAAACAAAACAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Admin_frm">
+    <Position X="16.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAiAAABAAEBCAAAACAIAiEQQIQAAAAQAAAAA=</HashCode>
+      <FileName>Forms\Admin_frms\Admin_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.MenuEdit_frm">
+    <Position X="19.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAASAAAAAQEACAAAAGECgiAQQAAAAAAAAAAAg=</HashCode>
+      <FileName>Forms\Admin_frms\MenuEdit_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Customer_frm">
+    <Position X="8" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gwAAAACAhCEAAACAKACAAFBCAAVIgEAACAAQQQwAAAA=</HashCode>
+      <FileName>Forms\Customer_frms\Customer_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Main_frm">
+    <Position X="10" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gCAJAAhABCAEgxECEICAAJAiAAiAgAAQEAgAAc8AAAA=</HashCode>
+      <FileName>Forms\Main_frms\Main_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.SignUp_frm">
+    <Position X="12.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAAAACAQAAAAAKDAAIICAAgIgBQBEAwEAYgAAAA=</HashCode>
+      <FileName>Forms\Main_frms\SignUp_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Program">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Admin_frms.AddFood_frm">
+    <Position X="19.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAGAAABICAACAAAACAAAcAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Forms\Admin_frms\AddFood_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Admin_frms.EditUsers_frm">
+    <Position X="15" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAARADAAAAAAkACABAACAAACAQQAAAAAAABAAAA=</HashCode>
+      <FileName>Forms\Admin_frms\EditUsers_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Admin_frms.SpecificUserEdit_frm">
+    <Position X="15" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAQAACAAABAAQAKBAAADAAAAAiEADgBCgQAAAAA=</HashCode>
+      <FileName>Forms\Admin_frms\SpecificUserEdit_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Customer_frms.EatControl">
+    <Position X="10.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICMEIaAAAAAkAACAAAIGMAgoAAAAAGAAgQBUEAE=</HashCode>
+      <FileName>Forms\Customer_frms\EatControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Customer_frms.Home_view2">
+    <Position X="12.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAYAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Forms\Customer_frms\Home_view2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Customer_frms.Home_View3">
+    <Position X="12.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAQAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Forms\Customer_frms\Home_View3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Customer_frms.HomeView_1">
+    <Position X="6" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAACAAAABAAAA=</HashCode>
+      <FileName>Forms\Customer_frms\HomeView_1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Customer_frms.OrderPlace_frm">
+    <Position X="6" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgEAACAgABACAACAAAoCAAAAQAIAAAAAAQFNAAE=</HashCode>
+      <FileName>Forms\Customer_frms\OrderPlace_frm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Forms.Main_frms.TermsConditions">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgBAAAACAAAACAEAAAAAAAEAAAAAEEAA=</HashCode>
+      <FileName>Forms\Main_frms\TermsConditions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACHALALxiQEQQACCAQANkIIApQGAANhgHRQDEQAgEMc=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeShop_GUI.Properties.Settings" Collapsed="true">
+    <Position X="5.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

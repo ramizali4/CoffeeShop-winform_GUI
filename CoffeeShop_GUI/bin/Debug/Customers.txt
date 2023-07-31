@@ -1,0 +1,24 @@
+ramiz
+123
+Customer
+Hno.4 Dexter street
+24
+6861
+Sherlock
+123
+Customer
+221-B Baker Street 
+12
+1261
+Parveen12
+123
+Customer
+Disney Land Park
+76
+870
+Captain
+123
+Customer
+Valar Morghullis
+45
+120
